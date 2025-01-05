@@ -2,7 +2,7 @@
 
 This repository contains various experiments with EntityFramework Core.
 
-## /EfCoreAudit ##
+## EfCoreAudit ##
 
 Audit trails are a very, very common requirement in software development. And if you are using 
 SQL Server (or MariaDB) it's really easy to use a Temporal Table and track everything, that happens 
